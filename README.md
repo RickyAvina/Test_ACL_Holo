@@ -24,7 +24,7 @@ A project including the bare requirements for running a Hololens and ROS project
 #### Editor Only
 * Pedestrian Controller (reference to ROS publisher)
 * Used for all testing where spatial anchors are not required (becasue spatial anchors cannot be simulated in the Unity editor)
-#####  HololensOrigin
+####  HololensOrigin
 Includes SpatialMapping that uses a persistent global anchor that will serve as the origin for pedestrians.
 **Instructions**
 - Look around until you are satisfied with the spatial mapping
