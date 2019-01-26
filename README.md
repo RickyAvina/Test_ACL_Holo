@@ -22,8 +22,10 @@ Any ROS publisher that uses WebSocket (with port 9090) will work. To use the ped
 A project including the bare requirements for running a Hololens and ROS project.
 * Configured VR settings
 * Hololens Camera
+#### Editor Only
 * Pedestrian Controller (reference to ROS publisher)
-#####  OriginCube
+* Used for all testing where spatial anchors are not required (becasue spatial anchors cannot be simulated in the Unity editor)
+#####  HololensOrigin
 Includes SpatialMapping that uses a persistent global anchor that will serve as the origin for pedestrians.
 **Instructions**
 - Look around until you are satisfied with the spatial mapping
