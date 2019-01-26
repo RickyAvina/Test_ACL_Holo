@@ -8,9 +8,8 @@
 ### Installation
 
 #### Unity
-* Download project from [this link](https://bitbucket.org/acl_ford/hololens/downloads/).
-
-* Open the project under the *EditorPublisher* folder
+* Download project.
+* Open the project under the *ACL_Holo_ROS* folder
 * Open a [scene](#Scenes) under Scenes
 * In the *PedestrianController* prefab, change the **serverURL** to your ROS URL.
 #### ROS
