@@ -1,11 +1,11 @@
 # Pedestrian Simulation via Hololens and ROS
 
-### Dependencies
+## Dependencies
 * Unity 2018.x
 * Net 4.x
 * Visual Studio 2017+
 
-### Installation
+## Installation
 
 #### Unity
 * Download project.
@@ -16,7 +16,7 @@
 Any ROS publisher that uses WebSocket (with port 9090) will work. To use the pedestrian simulation engine follow [these](https://github.com/blutjens/pedestrian_simulation) instructions
 
 
-### Scenes
+## Scenes
 #### Base 
 A project including the bare requirements for running a Hololens and ROS project.
 * Configured VR settings
@@ -30,11 +30,5 @@ Includes SpatialMapping that uses a persistent global anchor that will serve as 
 - Look around until you are satisfied with the spatial mapping
 - Say "Ready" to stop mapping and observe the pedestrians spawning
 
-### Todos
-
- - Write MORE Tests
-
-License
-----
-
-MIT
+##
+Affiliation: MIT ACL
