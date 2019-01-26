@@ -18,7 +18,7 @@ Any ROS publisher that uses WebSocket (with port 9090) will work. To use the ped
 
 
 ### Scenes
-##### Base 
+#### Base 
 A project including the bare requirements for running a Hololens and ROS project.
 * Configured VR settings
 * Hololens Camera
