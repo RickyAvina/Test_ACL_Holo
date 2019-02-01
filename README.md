@@ -9,9 +9,9 @@
 
 #### Unity
 * Download project.
-* Open the project under the *ACL_Holo_ROS* folder
-* Open a [scene](#Scenes) under Scenes
-* In the *PedestrianController* prefab, change the **serverURL** to your ROS URL.
+* Open the project which is the *ACL_Holo_ROS/ACL_Holo_ROS* folder
+* In Unity, Open a [scene](#Scenes) under the *Scenes* folder
+* In the *PedestrianController* object, change the **serverURL** to your ROS URL.
 #### ROS
 Any ROS publisher that uses WebSocket (with port 9090) will work. To use the pedestrian simulation engine follow [these](https://github.com/blutjens/pedestrian_simulation) instructions
 
