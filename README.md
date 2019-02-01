@@ -36,7 +36,7 @@ Includes SpatialMapping, VoiceInput and uses a persistent global anchor that wil
 - Say "Ready" to stop mapping and observe the pedestrians spawning
 - If it your first time running the project, you will be prompted to place down your origin, all subsequent iterations of the program will use that anchor and prmpt you to continue with the voice command "*start*" or give you the option to re-configure the position of your origin.
 - Once you say *start*, the pedestrians should spawn and move relative to the origin you have set.
-### Demo
+#### Demo
 Created so that the user does not have to use voice commands or input; in this project, the pedestrians will spawn immediately and the spatial map will be continuously updated.
 ##
 Affiliation: MIT ACL
