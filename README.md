@@ -17,6 +17,9 @@ Tested with:
 * Open the project which is the *ACL_Holo_ROS/ACL_Holo_ROS* folder
 * In Unity, Open a [scene](#Scenes) under the *Scenes* folder
 * In the *PedestrianController* object, change the **serverURL** to your ROS URL.
+* Build (Ctr+Shift+B) to a new folder (make sure *Unity C# Projects* debugging is off.
+* Once the project is done building, navigate to the *.sln* file, (ex: *BaseProject.sln*)
+* Deploy to the Hololens within **Visual Studio** using [https://docs.microsoft.com/en-us/windows/mixed-reality/using-visual-studio](these) instructions.
 #### ROS (Linux System)
 Any ROS publisher that uses WebSocket (with port 9090) will work. To use the pedestrian simulation engine follow [these](https://github.com/blutjens/pedestrian_simulation) instructions. *Note:* It is useful to assign a static IP to this computer so you do not have to recompile the project everytime the IP changes.
 
