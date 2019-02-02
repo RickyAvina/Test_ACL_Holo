@@ -15,7 +15,7 @@ Tested with:
 #### Unity (Windows or Mac System)
 * Download project.
 * Open the project which is the *ACL_Holo_ROS/ACL_Holo_ROS* folder
-* In Unity, Open a [scene](#Scenes) under the *Scenes* folder
+* In Unity, Open a [scene](https://github.com/RickyAvina/Test_ACL_Holo/wiki/Scenes) under the *Scenes* folder
 * In the *PedestrianController* object, change the **serverURL** to your ROS URL.
 * Build (Ctr+Shift+B) to a new folder (make sure *Unity C# Projects* debugging is off.
 * Once the project is done building, navigate to the *.sln* file, (ex: *BaseProject.sln*)
